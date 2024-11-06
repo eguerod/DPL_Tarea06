@@ -123,8 +123,8 @@ public class CalculadoraEjemplo {
      * @since 1.0
      */
     public static void main(String[] args) {
-        // Crear un objeto de la calculadora con operandos 10 y 5
-        CalculadoraEjemplo calculadora = new CalculadoraEjemplo(10, 5);
+        // Crear un objeto de la calculadora con operandos 15 y 20
+        CalculadoraEjemplo calculadora = new CalculadoraEjemplo(15, 20);
 
         // Probar la suma
         System.out.println("Suma: " + calculadora.sumar());
